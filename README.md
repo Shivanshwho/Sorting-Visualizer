@@ -1,4 +1,5 @@
-# Sorting Visualizer
+#Veiwsort
+
 
 [Download](https://github.com/dipesh-m/Sorting-Visualizer/releases/tag/1.0)
 
